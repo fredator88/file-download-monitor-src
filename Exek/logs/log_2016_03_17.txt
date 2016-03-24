@@ -1,0 +1,20 @@
+mar 17, 2016 3:59:37 PM FileDownloaderMain prepareLogger
+INFO: ------- Logger has been started -------
+mar 17, 2016 3:59:37 PM FileDownloaderMain main
+INFO: Reading configuration file..
+mar 17, 2016 3:59:37 PM FileDownloaderMain main
+INFO: Configuration has been loaded from file config.properties
+mar 17, 2016 3:59:37 PM FileDownloaderMain main
+INFO: Downloading file from: http://www.ploug.org.pl/seminarium/seminarium_XI/pliki/RAC_GRID_DataGuard.pdf
+mar 17, 2016 3:59:41 PM FileDownloaderMain main
+INFO: File has been downloaded as file.pdf in 3533ms
+mar 17, 2016 4:19:26 PM FileDownloaderMain prepareLogger
+INFO: ------- Logger has been started -------
+mar 17, 2016 4:19:26 PM FileDownloaderMain main
+INFO: Reading configuration file..
+mar 17, 2016 4:19:26 PM FileDownloaderMain main
+INFO: Configuration has been loaded from file config.properties
+mar 17, 2016 4:19:26 PM FileDownloaderMain main
+INFO: Downloading file from: http://www.ploug.org.pl/seminarium/seminarium_XI/pliki/RAC_GRID_DataGuard.pdf
+mar 17, 2016 4:19:28 PM FileDownloaderMain main
+INFO: File has been downloaded as file.pdf in 1626ms

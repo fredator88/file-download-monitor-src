@@ -1,0 +1,18 @@
+mar 23, 2016 11:08:17 AM FileDownloaderMain prepareLogger
+INFO: ------- Logger has been started -------
+mar 23, 2016 11:08:17 AM FileDownloaderMain start
+INFO: Reading configuration file..
+mar 23, 2016 11:08:17 AM FileDownloaderMain start
+INFO: Configuration has been loaded from file config.properties
+mar 23, 2016 11:08:17 AM FileDownloaderMain start
+INFO: Downloading file from: http://ubimob2013.sciencesconf.org/21283/document
+mar 23, 2016 11:08:19 AM FileDownloaderMain start
+INFO: File has been downloaded as file.pdf in 2608ms
+mar 23, 2016 11:08:29 AM FileDownloaderMain start
+INFO: Downloading file from: http://ubimob2013.sciencesconf.org/21283/document
+mar 23, 2016 11:08:34 AM FileDownloaderMain start
+INFO: File has been downloaded as file.pdf in 4428ms
+mar 23, 2016 11:08:44 AM FileDownloaderMain start
+INFO: Downloading file from: http://ubimob2013.sciencesconf.org/21283/document
+mar 23, 2016 11:08:46 AM FileDownloaderMain start
+INFO: File has been downloaded as file.pdf in 2516ms
